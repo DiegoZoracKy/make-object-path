@@ -49,6 +49,6 @@ makeObjectPath(existentObject, [variableToBePropertyName, 'createdBy', 'variable
 ## Installation
 ```javascript
 
-npm install clean-special-chars
+npm install make-object-path
 
 ```
