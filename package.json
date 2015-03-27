@@ -1,0 +1,30 @@
+{
+	"name": "make-object-path",
+	"version": "1.0.0",
+	"description": "Creates an object structure based on a Path defined in an Array structure (accepting variables and expressions evaluations) or String written in dot notation (e.g. 'objParent.objChild.objDeep'). It can return a new object or create the path into an existent one. A value can be set into the deeper object's property.",
+	"homepage": "https://github.com/DiegoZoracKy/make-object-path",
+	"main": "./lib/make-object-path.js",
+	"author": {
+		"name": "Diego ZoracKy",
+		"email": "diego.zoracky@gmail.com",
+		"url": "diegozoracky.com",
+		"twitter": "@diegozoracky"
+	},
+	"licenses": {
+		"type": "MIT",
+		"url": "http://www.opensource.org/licenses/MIT"
+	},
+	"directories": {},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/DiegoZoracKy/make-object-path.git"
+	},
+	"keywords":[
+		"object literal",
+		"json",
+		"create object path",
+		"create object property / properties",
+		"object property variable"
+	],
+	"bugs": "https://github.com/DiegoZoracKy/make-object-path/issues"
+}
