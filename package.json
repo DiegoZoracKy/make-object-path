@@ -1,7 +1,7 @@
 {
 	"name": "make-object-path",
 	"version": "2.0.0",
-	"description": "Creates an object structure based on a Path defined in an Array structure or String written in dot notation, e.g. 'objParent.objChild.objDeep', or with any delimiter that can be defined as a parameter, e.g. 'objParent|objChild|objDeep'. It can return a new object or create the path into an existent one. A value can be set into the deepest object's property.",
+	"description": "Creates an object structure based on a Path defined in an Array structure or String written in dot notation, e.g. 'objParent.objChild.objDeep', or with any delimiter that can be defined as a parameter, e.g. 'objParent|objChild|objDeep'. It can return a new object or create the path into an existing one. A value can be defined to be set into the deepest object's property.",
 	"homepage": "https://github.com/DiegoZoracKy/make-object-path",
 	"main": "./lib/make-object-path.js",
 	"author": {
